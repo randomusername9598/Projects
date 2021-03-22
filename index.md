@@ -9,3 +9,4 @@
 
 A simple 4-directional input Etch-a-Sketch program made during winter 2020.
 
+#### An image of the project.
