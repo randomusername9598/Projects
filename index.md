@@ -18,3 +18,4 @@ A simple etch-a-sketch program made during winter 2020.
 
 #### An image of my name made with the project.
 ![Etch-a-Sketch](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/edisonetch.png?raw=true)
+
