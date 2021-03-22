@@ -7,4 +7,5 @@
 
 ### Etch-a-Sketch
 
-A simple 4-directional input Etch-a-Sketch program.
+A simple 4-directional input Etch-a-Sketch program made during winter 2020.
+
