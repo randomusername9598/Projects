@@ -5,8 +5,8 @@
 
 ## Processing Projects
 
-### Etch-a-Sketch
+### Space Game
 
-A simple 4-directional input Etch-a-Sketch program made during winter 2020.
+A simple space shooter program made during winter 2020, left unfinished.
 
 #### An image of the project.
