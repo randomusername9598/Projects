@@ -1,5 +1,8 @@
 # Welcome to Edison Tran's Page.
 
+Edison Tran
+Contact me [here](edistran9598@granitesd.org)
+
 ## Typing Speed
 ![typing test](https://github.com/randomusername9598/project/blob/gh-pages/Images/image.png?raw=true)
 
@@ -31,3 +34,13 @@ This focuses on getting a value from the position of the user's mouse, then conv
 ![Binary Convertor](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/BinaryConverter.png?raw=true)
 
 Source Code can be found [here](https://github.com/randomusername9598/Projects/blob/gh-pages/src/Binary_Converter.pde)
+
+### Screen Saver
+
+A simple program that generates a screen saver.
+This focuses on float values.
+
+#### An image of the screen saver.
+![Screen Saver](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/ScreenSaver.png)
+
+Source Code can be found [here](https://github.com/randomusername9598/Projects/blob/gh-pages/src/ScreenSaver.pde)
