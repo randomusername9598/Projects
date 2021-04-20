@@ -25,4 +25,4 @@ Focusing on key inputs from the user.
 A simple convertor that changes the number the user hovers on into binary.
 
 #### An image of the convertor.
-! [Binary Convertor] (https://github.com/randomusername9598/Projects/blob/4be753f40d77974c0b5836a9ff0c9a0b9aa9840e/Images/BinaryConverter.png?raw=true)
+! [Binary Convertor] (Images/BinaryConverter.png?raw=true)
