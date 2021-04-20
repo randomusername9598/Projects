@@ -1,4 +1,4 @@
-# Welcome to my Edison Tran's Page.
+# Welcome to Edison Tran's Page.
 
 ## Typing Speed
 ![typing test](https://github.com/randomusername9598/project/blob/gh-pages/Images/image.png?raw=true)
