@@ -1,7 +1,7 @@
 # Welcome to Edison Tran's Page.
 
 Edison Tran
-Contact me [here](edistran9598@granitesd.org)
+Contact me edistran9598@granitesd.org
 
 ## Typing Speed
 ![typing test](https://github.com/randomusername9598/project/blob/gh-pages/Images/image.png?raw=true)
