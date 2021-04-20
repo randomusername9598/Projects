@@ -23,6 +23,7 @@ Focusing on key inputs from the user.
 ### Binary Convertor
 
 A simple convertor that changes the number the user hovers on into binary.
+This focuses on getting a value from the position of the user's mouse, then converts it in a string.
 
-#### An image of the convertor.
-! [Binary Convertor] (Images/BinaryConverter.png?raw=true)
+#### An image of the number 10 converted into binary.
+![Binary Convertor](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/BinaryConverter.png?raw=true)
