@@ -13,6 +13,7 @@ Focusing on multiple things I've learned over the semester, from mouse inputs, c
 #### An image of the project.
 ![Space Game](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/spacegame.png?raw=true)
 
+Source Code can be found [here](https://github.com/randomusername9598/Projects/tree/gh-pages/src/SpaceGame_WIP/SpaceGame)
 ### Etch-a-Sketch
 
 A simple etch-a-sketch program made during winter 2020.
@@ -20,6 +21,7 @@ Focusing on key inputs from the user.
 #### An image of my name that I tried to make with this project.
 ![Etch-a-Sketch](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/edisonetch.png?raw=true)
 
+Source Code can be found [here](https://github.com/randomusername9598/Projects/blob/gh-pages/src/Etch_a_sketch.pde)
 ### Binary Convertor
 
 A simple convertor that changes the number the user hovers on into binary.
@@ -27,3 +29,5 @@ This focuses on getting a value from the position of the user's mouse, then conv
 
 #### An image of the number 10 converted into binary.
 ![Binary Convertor](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/BinaryConverter.png?raw=true)
+
+Source Code can be found [here](https://github.com/randomusername9598/Projects/blob/gh-pages/src/Binary_Converter.pde)
