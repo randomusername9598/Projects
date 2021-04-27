@@ -4,8 +4,12 @@ Edison Tran
 Contact me edistran9598@granitesd.org
 
 ## Typing Speed
+
+### A 5 minute typing test on the website [typing.com](typing.com).
 ![typing test](https://github.com/randomusername9598/project/blob/gh-pages/Images/image.png?raw=true)
 
+### A 10 minute typing test with no punctuation on the website [monkeytype.com](monkeytype.com).
+![monkey type](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/Typing.png?raw=true)
 ## Processing Projects
 
 ### Space Game
