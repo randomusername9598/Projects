@@ -53,8 +53,12 @@ Source Code can be found [here](https://github.com/randomusername9598/Projects/b
 
 A simple clicking game.
 The goal is to click towards the goal, you can buy items as well.
+
+#### The title screen.
 ![Title Screen](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/final2021/proj.PNG)
+#### The shop.
 ![Shop](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/final2021/orh.PNG)
+#### The equipped item in game.
 ![Equiped Item](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/final2021/asdf.PNG)
 
 
