@@ -48,3 +48,11 @@ This focuses on float values.
 ![Screen Saver](https://github.com/randomusername9598/Projects/blob/gh-pages/Images/ScreenSaver.png)
 
 Source Code can be found [here](https://github.com/randomusername9598/Projects/blob/gh-pages/src/ScreenSaver.pde)
+
+### A group project with Tyler Le (TylerLeCmd)
+
+A simple clicking game.
+The goal is to click towards the goal, you can buy items as well.
+
+
+Source Code can be found [here](https://github.com/TylerLeCmd/CPProjects/tree/gh-pages/FinalProject2021)
